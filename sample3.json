@@ -6,7 +6,7 @@
         "properties": {
           "name": "Sample Line",
           "timestampProperty": "time",
-          "_timestamp": "1507257600000"
+          "_timestamp": 1507257600000
         },
         "geometry": {
           "type": "LineString",
