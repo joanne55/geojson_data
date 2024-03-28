@@ -4,7 +4,8 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Sample Line"
+          "name": "Sample Line",
+          "timestampProperty": "time"
         },
         "geometry": {
           "type": "LineString",
